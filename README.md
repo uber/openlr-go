@@ -40,8 +40,8 @@ func main() {
                 Dnp:    0},
         },
     }
-    encodedString, _ := llr.Encode()
-    fmt.Println(b64.StdEncoding.EncodeToString(encodedString))
+    encodedBinary, _ := llr.Encode()
+    fmt.Println(b64.StdEncoding.EncodeToString(encodedBinary))
 }
 ```
 
