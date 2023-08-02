@@ -1,12 +1,25 @@
 # OpenLR Go
 
-Zero dependency Golang implementation for
+This library contains an OpenLR implementation for Golang. 
+
+A Zero dependency Golang implementation for
 [OpenLR™](https://www.openlr-association.com) binary physical formats according to
 [the White Paper](https://www.openlr-association.com/fileadmin/user_upload/openlr-whitepaper_v1.5.pdf)
 and [the reference implementation](https://github.com/tomtom-international/openlr).
 
+The OpenLR specification can be found at [OpenLR.org](http://www.openlr.org).
+
+Currently only supports **line** encoding to **binary**.
+
+This project is open to contributions, and is released AS-IS. 
 
 ## Usage
+
+### Installation
+
+```bash
+go get -u https://github.com/uber/openlr-go
+```
 
 ### Encode Line Location Reference
 
