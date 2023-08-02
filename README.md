@@ -58,6 +58,12 @@ func main() {
 }
 ```
 
+This produces the following output
+
+```
+CwNhbCU+jzPLAwD0/34zGw==
+```
+
 ## License
 
 Please see [license.txt](https://github.com/uber/openlr-go/blob/main/license.txt) for details.
