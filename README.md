@@ -9,7 +9,7 @@ and [the reference implementation](https://github.com/tomtom-international/openl
 
 The OpenLR specification can be found at [OpenLR.org](http://www.openlr.org).
 
-Currently only supports **line** encoding to **binary**.
+Currently only supports **line** encoding to **binary** and go version 1.18+
 
 This project is open to contributions, and is released AS-IS. 
 
