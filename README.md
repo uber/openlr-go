@@ -70,5 +70,5 @@ Please see [license.txt](https://github.com/uber/openlr-go/blob/main/license.txt
 
 ## Bug reports and new feature requests
 
-If you encounter any problems with this library, don't hesitate to use the `Issues` section to file your issues or open pull requests.
+If you encounter any problems with this library, don't hesitate to use the [`Issues`](https://github.com/uber/openlr-go/issues) section to file your issues or open pull requests.
 Normally, these are checked and responded to on the 15th calendar day of the month. 
