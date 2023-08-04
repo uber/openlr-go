@@ -1,4 +1,4 @@
-# OpenLR Go
+# OpenLR for Go
 
 This library contains an OpenLR implementation for Golang. 
 
@@ -10,8 +10,6 @@ and [the reference implementation](https://github.com/tomtom-international/openl
 The OpenLR specification can be found at [OpenLR.org](http://www.openlr.org).
 
 Currently only supports **line** encoding to **binary** and go version 1.18+
-
-This project is open to contributions, and is released AS-IS. 
 
 ## Usage
 
@@ -64,11 +62,17 @@ This produces the following output
 CwNhbCU+jzPLAwD0/34zGw==
 ```
 
+## Support
+
+If you encounter any problems with this library, please file a bug report in  [`Issues`](https://github.com/uber/openlr-go/issues). 
+
+**Due to time constraints, we check the issues monthly (or more often if we can).  Issues & PR's are normall checked and responded to on the 15th calendar day of the month.**
+
+## Contributions
+We welcome contributions.  Please see [Contributing.md](CONTRIBUTING.md) for more details.
+
+
 ## License
 
-Please see [license.txt](https://github.com/uber/openlr-go/blob/main/license.txt) for details.
-
-## Bug reports and new feature requests
-
-If you encounter any problems with this library, don't hesitate to use the [`Issues`](https://github.com/uber/openlr-go/issues) section to file your issues or open pull requests.
-Normally, these are checked and responded to on the 15th calendar day of the month. 
+Copyright 2023 Uber Technologies, Inc.  
+Licensed under [Apache 2.0](https://github.com/uber/openlr-go/blob/main/license.txt).
